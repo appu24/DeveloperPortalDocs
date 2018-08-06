@@ -40,9 +40,9 @@ Then follow the links in the heroku output to see your application. You should s
 
 Go here and log in. https://developer.broadsoftlabs.com/#/app/login
 
-If you don't have a Team-One account yet, don't worry, you can get one free for 30 days. If you need longer than 30 days email me at jodonnell@broadsoft.com
+If you don't have a UC-One account yet, don't worry, you can get one free for 30 days. If you need longer than 30 days email me at jodonnell@broadsoft.com
 
-Once you have logged in to Team-One, go to: https://developer.broadsoftlabs.com/#/app/make and click the 'Create New App' button in the Hub section. Enter an application name that means something to you and the URL you got from heroku. Make sure the url is in https form.
+Once you have logged in to UC-One, go to: https://developer.broadsoftlabs.com/#/app/make and click the 'Create New App' button in the Hub section. Enter an application name that means something to you and the URL you got from heroku. Make sure the url is in https form.
 
 You should now see an app like this:
 
@@ -50,33 +50,25 @@ You should now see an app like this:
 
 Click the app to see the app settings.
 
-### 5. See your app in Team-One
+### 5. See your app in UC-One
 
-Go to https://app.intellinote.net/
+Open UC-One App
 
-Click on the 'Manage Integrations' button in the bottom left
+Click on the 'HUB Settings' button in the bottom left
 
-<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/15.png" alt="Drawing" style="width: 200px;"/>
+<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/image15.png" alt="Drawing" style="width: 200px;"/>
 
-Click on 'Manage Hub Settings'
+Once the App list loads, scroll down to see your application and toggle it on.
 
-<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/16.png" alt="Drawing" style="width: 200px;"/>
-
-Once the list loads, scroll down to see your application and toggle it on.
-
-<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/17.png" alt="Drawing" style="width: 600px;"/>
-
-Go back to https://app.intellinote.net and go to your personal workspace.
-
-<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/18.png" alt="Drawing" style="width: 200px;"/>
+<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/image16.png" alt="Drawing" style="width: 600px;"/>
 
 Click your app:
 
-<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/19.png" alt="Drawing" style="width: 200px;"/>
+<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/image17.png" alt="Drawing" style="width: 200px;"/>
 
 and see it in action! This is the Micro App view and it comes from your application. This is an iframe that is hosted on your application at `https://mySuperCoolApp.com/microapp`.
 
-<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/20.png" alt="Drawing" style="width: 200px;"/>
+<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/image18.png" alt="Drawing" style="width: 200px;"/>
 
 You can view contextual information by adding a user to your organization or talking to an existing user.
 
@@ -84,13 +76,13 @@ You can view contextual information by adding a user to your organization or tal
 
 This is an iframe that is hosted on your application at `https://mySuperCoolApp.com/contextual`.
 
-Click on the contextual tab at the top of the user conversation
+Click on the Hub icon at the top of the user conversation to view the Contextual
 
-<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/21.png" alt="Drawing" style="width: 600px;"/>
+<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/image19.png" alt="Drawing" style="width: 600px;"/>
 
 and see your app.
 
-<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/22.png" alt="Drawing" style="width: 600px;"/>
+<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/image20.png" alt="Drawing" style="width: 600px;"/>
 
 ## 7. Push an update to your
 

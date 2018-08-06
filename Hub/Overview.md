@@ -10,11 +10,11 @@ Hub is a part of several products at Broadsoft. (Team-One, CC-One, UC-One) Hub p
 
 To do this, Hub apps have three different areas where data can be delivered: the MicroApp panel, the Notification bar, and the Contextual panel.   
 
-Below is an illustration of how Hub is displayed in Team-One. Anyone can get a free trial Team-One account. Email us at jodonnell@broadsoft.com if you need your free trial extended.
+Below is an illustration of how Hub is displayed in UC-One. Anyone can get a free trial UC-One account. Email us at jodonnell@broadsoft.com if you need your free trial extended.
 
 ## Notifications
 
-![](https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/23.png)
+![](https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/image21.png)
 
 In the notifications bar, you’ll have an icon for your application. This icon is also used for navigation to your app.
 
@@ -24,13 +24,13 @@ In the notifications bar, you’ll have an icon for your application. This icon 
 
 ## Contextual
 
-<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/24.png" alt="Drawing" style="width: 600px;"/>
+<img src="https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/image22.png" alt="Drawing" style="width: 600px;"/>
 
 This panel is shown when a user interacts with another user through chat or a phone call. In your application, this is an iframe that is hosted on your app at `/contextual`. This iframe can be resized by the user.
 
 ## MicroApp
 
-![](https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/25.png)
+![](https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/image23.png)
 
 The micro app an iframe that you control and host on your servers. The default size of this iframe is 288px by 470px. Users have the ability to expand the window to any height while maintaining a fixed width of 288px. The url for the MicroApp iframe is the base url of your app that you specify in the developer portal.
 
@@ -40,7 +40,7 @@ When users take actions in Hub, your app will be notified and it is up to you to
 
 ## Settings
 
-![](https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/image5.png)
+![](https://raw.githubusercontent.com/BroadSoft-Xtended/DeveloperPortalDocs/master/Hub/images/image24.png)
 
 When the user first logs into the Hub application, they will see a settings page for all applications. This is where your app will be shown to the users for the first time. The user will attempt to enable your application and then you can start to provide data to that user.
 
